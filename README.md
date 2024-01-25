@@ -1,5 +1,5 @@
 # GERADOR DE SENHAS
-🔵GERE SENHAS ALEATÓRIAS ENTRE 8 E 20 CARACTERES! 
+🔐GERE SENHAS ALEATÓRIAS ENTRE 8 E 20 CARACTERES! 
 
 <img src="FOTO_1.png" align="center" width="500"> <br>
 <img src="FOTO_2.png" align="center" width="500"> <br>
