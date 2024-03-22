@@ -15,29 +15,8 @@ O "Gerador de Senhas" é uma ferramenta simples e eficiente para criar senhas al
   
 Utilize este aplicativo sempre que precisar de uma senha segura e aleatória para suas contas online, garantindo a segurança de suas informações.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/GERADOR-DE-SENHAS.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd GERADOR-DE-SENHAS
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip GERADOR-DE-SENHAS.zip
-```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
-1. Abra o aplicativo "Gerador de Senhas" em seu navegador.
+## EXECUTANDO O PROJETO:
+1. Abra o arquivo `CODIGO.html` em seu navegador.
 2. Clique no botão "GERAR" para obter uma nova senha.
 3. Após a geração da senha, ela será exibida no campo designado.
 4. O botão "COPIAR" estará agora disponível. Clique nele para copiar a senha.
@@ -46,9 +25,9 @@ unzip GERADOR-DE-SENHAS.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
