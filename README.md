@@ -31,5 +31,4 @@ Utilize este aplicativo sempre que precisar de uma senha segura e aleatória par
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
